@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @nordine-marie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Nordine 👋
 
-<!---
-nordine-marie/nordine-marie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Student at the engineering school [**TELECOM SudParis**](https://www.telecom-sudparis.eu/)*
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nordine-marie-engineer/) [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nordinemarie.me/)
+
+
+![Nordine's github stats](https://github-readme-stats.vercel.app/api?username=nordine-marie&show_icons=true&hide_border=true&theme=dark)
