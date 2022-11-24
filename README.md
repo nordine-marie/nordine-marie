@@ -1,7 +1,7 @@
 # Hi, I'm Nordine 👋
 
 # 💫 About Me:
-💻 Software Engineer @ Microsoft<br>📷 Video and photo enthusiast<br>💬 Feel free to contact me by e-mail or on LinkedIn
+💻 Software Engineer @ Microsoft<br>📷 Video (and coffee) enthusiast<br>💬 Feel free to contact me by e-mail or on LinkedIn
 
 
 ## 🌐 Socials:
